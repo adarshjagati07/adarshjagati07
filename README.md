@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarsh07&show_icons=true&locale=en" alt="itsadarsh07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsadarsh07&" alt="itsadarsh07" /></p>
+
+<img src="https://raw.githubusercontent.com/itsadarsh07/itsadarsh07/output/snake-dark.svg" alt="Contributions">
