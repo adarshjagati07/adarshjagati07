@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Narayan Jagati</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadarsh07&label=Profile%20views&color=0e75b6&style=flat" alt="itsadarsh07" /> </p>
-
 - 🔭 I’m currently working on **NodeJs projects**
 
 - 🌱 I’m currently learning **C++ and Nodejs(Network Programming)**
