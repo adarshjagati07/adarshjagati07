@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Nodejs**
 
-- 💬 Ask me about **C, C++ and Nodejs**
+- 💬 Ask me about **C, C++ and Nodejs(Web Development)**
 
 - 📫 How to reach me **itsadarsh0702@gmail.com**
 
