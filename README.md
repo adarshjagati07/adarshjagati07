@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NodeJs projects**
 
-- 🌱 I’m currently learning **C++ and Nodejs(Network Programming)**
+- 🌱 I’m currently learning **C++ and Nodejs**
 
 - 💬 Ask me about **C, C++ and Nodejs**
 
