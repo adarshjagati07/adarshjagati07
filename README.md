@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adarsh Narayan Jagati</h1>
-<h3 align="center">A passionate developer from India.</h3>
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Adarsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Adarsh Welcome to my Profile! animated typed out">
+<p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3>
 
 - 🔭 I’m currently working on **NodeJs projects**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++ and Nodejs(Web Development)**
 
-- 📫 How to reach me **adarshjagati0702@gmail.com**, <a href="https://linkedin.com/in/adarsh-jagati07" target="blank">LinkedIn</a>
+- 📫 How to reach me **adarshjagati0702@gmail.com**, <b><a href="https://linkedin.com/in/adarsh-jagati07" target="blank">LinkedIn</a><b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
