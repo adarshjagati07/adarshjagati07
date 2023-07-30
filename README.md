@@ -1,4 +1,4 @@
-# <img height="80px" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=47&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1240&height=50&lines=+ +Hey%2C+I'm+Adarsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Adarsh Welcome to my Profile! animated typed out">
+# <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=47&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1290&height=50&lines=+ +Hey%2C+I'm+Adarsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Adarsh Welcome to my Profile! animated typed out">
 <p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3>
 
 - 🔭 I’m currently working on **NodeJs projects**
