@@ -31,4 +31,4 @@
 	
 </details>
 </p>
-<img src="https://raw.githubusercontent.com/adarshjagati07/adarshjagati07/output/snake-dark.svg" alt="Contributions">
+<img src="https://raw.githubusercontent.com/adarshjagati07/adarshjagati07/output/snake-dark.svg" alt="Contributions" />
