@@ -1,6 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=47&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1290&height=50&lines=+ +Hey%2C+I'm+Adarsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Adarsh Welcome to my Profile! animated typed out">
-<p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3>
+<p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3><br><br>
 
+<img width="30%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
 - 🔭 I’m currently working on **NodeJs projects**
 
 - 🌱 I’m currently learning **C++ and Nodejs(MERN)**
@@ -8,6 +9,7 @@
 - 💬 Ask me about **C, C++ and Nodejs(Web Development)**
 
 - 📫 How to reach me **adarshjagati0702@gmail.com**, <b><a href="https://linkedin.com/in/adarsh-jagati07" target="blank">LinkedIn</a><b>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
