@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C, C++ and Nodejs(Web Development)**
 
-- 📫 How to reach me **adarshjagati0702@gmail.com**, <b><a href="https://linkedin.com/in/adarsh-jagati07" target="blank">LinkedIn</a><b>
+- 📫 How to reach me **itsadarsh0702@gmail.com**, <b><a href="https://linkedin.com/in/adarsh-jagati07" target="blank">LinkedIn</a><b>
 
 
 <h3 align="left">Connect with me:</h3>
