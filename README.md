@@ -1,7 +1,6 @@
-<div style="text-align:center;">
-     <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=24&duration=4000&color=FFFFF1DA&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=75&lines=Hey!+I+am+Adarsh%2C;Welcome+to+my+Github+Profile." style="display:block; margin:auto;" alt="Typing SVG" />
-</div><br>
-
+<center>
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=4000&color=B4D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=1290&height=100&lines=Hey!+I+am+Adarsh%2C;Welcome+to+my+Github+Profile." style="pointer-events: none;" alt="Typing SVG" />
+</center>
 
 <p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3><br><br>
 
