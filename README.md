@@ -1,4 +1,8 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=48&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=1290&height=60&lines=+ +Hey%2C+I'm+Adarsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Adarsh Welcome to my Profile! animated typed out">
+<div style="text-align:center;">
+     <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=24&duration=4000&color=FFFFF1DA&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=75&lines=Hey!+I+am+Adarsh%2C;Welcome+to+my+Github+Profile." style="display:block; margin:auto;" alt="Typing SVG" />
+</div><br>
+
+
 <p>I am <b>Adarsh Narayan Jagati</b>. A passionate developer from India. Currently I am learning and working on projects related to Web Development.</h3><br><br>
 
 <img width="30%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
